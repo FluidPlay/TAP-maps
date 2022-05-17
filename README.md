@@ -1,2 +1,2 @@
-# TAPrime-maps
+# TAP-maps
 Maps for Total Atomization Prime
