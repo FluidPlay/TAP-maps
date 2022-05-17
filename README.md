@@ -1,2 +1,2 @@
 # TAP-maps
-Maps for Total Atomization Prime
+Maps for the game Total Atomic Power
